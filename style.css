@@ -1,0 +1,23 @@
+img{
+    display: block;
+    height: auto;
+    width: 200px;
+}
+#logo{
+    margin-left: auto;
+    margin-right: auto;
+}
+a{
+    text-decoration: none;
+    font-family: 'Brush Script MT', cursive;
+    font-size: 32px;
+    color: lightsalmon;
+}
+li{
+    margin-bottom: 15px;
+    list-style-type: disc;
+}
+h1{
+    font-family: monospace;
+    font-size: 38px;
+}
